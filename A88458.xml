@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the right honourable the Lord Mayor, aldermen, and Common-council of the the city of London, to his Majesties gracious letter and declaration, sent by the Lord Mordant; and a present of ten thousand pounds from the city to the King; with their declaration to sumbit to his Majesties government, and an order for taking down the States Arms, and setting up of the Kings. The names of the Earls, Lords, and gentlemen, appointed to go to the King; the rich and glorious crown and scepter, preparing for the day-tryumphant of his Royal Majesties coronation; and one humdred thousand pound a year to be setled upon the King, in lieu of the Court of Wards and Liveries, to the great joy of all loyal subjects.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88458</idno>
+            <idno type="STC">Wing L2852R</idno>
+            <idno type="STC">Thomason E1023_5</idno>
+            <idno type="STC">ESTC R208527</idno>
+            <idno type="EEBO-CITATION">99867473</idno>
+            <idno type="PROQUEST">99867473</idno>
+            <idno type="VID">168859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168859)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the right honourable the Lord Mayor, aldermen, and Common-council of the the city of London, to his Majesties gracious letter and declaration, sent by the Lord Mordant; and a present of ten thousand pounds from the city to the King; with their declaration to sumbit to his Majesties government, and an order for taking down the States Arms, and setting up of the Kings. The names of the Earls, Lords, and gentlemen, appointed to go to the King; the rich and glorious crown and scepter, preparing for the day-tryumphant of his Royal Majesties coronation; and one humdred thousand pound a year to be setled upon the King, in lieu of the Court of Wards and Liveries, to the great joy of all loyal subjects.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Samuel Styles, living in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 5. 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Corporation of London --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168859:1" rendition="simple:additions"/>
+            <p>THE ANSVVER OF The Right Honourable the Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon-council of the City of <hi>London,</hi> to his Majeſties gracious <hi>Letter</hi> and <hi>Declaration,</hi> ſent by the Lord <hi>Mordant;</hi> and a Pre<g ref="char:EOLhyphen"/>ſent of ten thouſand pounds from the <hi>City</hi> to the King; With their <hi>Declaration</hi> to ſubmit to his Majeſties Government, and an Order for taking down the States Arms, and ſetting up of the Kings. The names of the Earls, Lords, and Gentlemen, ap<g ref="char:EOLhyphen"/>pointed to go to the King; the rich and glorious Crown and Scepter, preparing for the Day-tryumphant of his Royal Majeſties Coronation; and one hundred thouſand pound a year to be ſetled upon the King, in lieu of the Court of <hi>Wards</hi> and <hi>Liveries,</hi> to the great joy of all loyal ſubjects.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel Styles,</hi> living in <hi>Fleet-ſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168859:2"/>
+            <pb n="3" facs="tcp:168859:2"/>
+            <head>Long live KING CHARLES The SECOND: Or the Order of the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men, for taking down the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tates Arms, and ſet<g ref="char:EOLhyphen"/>ting up of His Royal Majeſties.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the dayes of Queen <hi>Elizabeth</hi> and King <hi>James,</hi> this Kingdom was in a peaceable poſture both in Church and State, being then ſound within her ſelf, ſo that ſhe was able, by the Powerful Hand of God, to goe out in Battel and foyle all her e<g ref="char:EOLhyphen"/>nemies; the ſecret practices that then were on foot againſt her, returned on the Heads of the Contrivers; ſo that then <hi>ſhe</hi> was a terror to all the Nations round about her, no one daring to lift up his hand to diſturb her peace and ſettlement: Thus did <hi>ſhe</hi> continue till the Martyr <hi>Charles</hi> was cut off by the Butchering hand of his own Subjects, but by the Papiſtical inſtigation, that was the laſt night of <hi>Englands</hi> luſtre, ever ſince which time, <hi>ſhe</hi> hath been covered with a black and thick dark Cloud, no<g ref="char:EOLhyphen"/>thing
+<pb n="4" facs="tcp:168859:3"/> but gloomy Chances, Changes, Revolutions, and Turn<g ref="char:EOLhyphen"/>ings, which have tormented her like a Weather-beaten Ship<g ref="char:EOLhyphen"/>wrackt Veſſel, hurried and toſſed upon the Regions of <hi>Neptune</hi> by the enmity and competion between him and the <hi>Porcan</hi> puffs; firſt here, then there, never grounded upon any firm Baſſes! How many Rivers of innocent Blood within theſe 20 years have been ſpii<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Fields? Whom think you muſt anſwer for theſe things? The Father hath riſen up in rage againſt the Son of his Loynes, and the Son againſt thoſe who gave him light. The Daughters and Wives that have been raviſhed and defloured by the cruel en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, your Brethren that have peri<g ref="char:EOLhyphen"/>ſhed with bitter Oathes in their mouths, the loſs you have ſuf<g ref="char:EOLhyphen"/>fered by Plunders, Rapes, Murthers, Goods, Eſtates, Wives, and Selves, is of great concernment; the Oaths upon Oaths, Leagues, Vows, Covenants, Proteſtations, Remonſtrances, and Engagements you have made both to Nobles and Com<g ref="char:EOLhyphen"/>mons, to defend the Kings, Queens, Princes, and Royal Fa<g ref="char:EOLhyphen"/>milies Perſons in their Rights and Priviledges, Honour and Dignities: And that yet you ſhould murther your <hi>King!</hi> — Nay, Baniſh his vertuous Wife and Children; not onely Prin<g ref="char:EOLhyphen"/>ces, but <hi>Engliſh</hi> Free-born Princes from their Lawfull and Un<g ref="char:EOLhyphen"/>doub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Birth-rights, ſpoil his houſes, and put to ſale his goods, and part the ſpoil of their Lands, Properties, and Re<g ref="char:EOLhyphen"/>venues, <hi>&amp;c.</hi>
+            </p>
+            <p>Where is now the Government that Peace hath Crowned our Nations under? We had a <hi>King</hi> as a Legacy, and that the beſt our Fore fathers could leave us of Temporal things; but we have plaid the Prodigal Son with him; and how many now would be glad to feed with the Swine for a contenting ſuſtenta<g ref="char:EOLhyphen"/>tion. We had then a full enjoyment of all the mercies that could be in a Kingdom, We had a Government in the Church, Religion was countenanced, we had pious and able Divines, Ju<g ref="char:EOLhyphen"/>ſtice ran down our ſtreets like a mighty ſtream and friends and neighbours would ſay one to another, Whether goe you, <hi>Why
+<pb n="5" facs="tcp:168859:3"/> to Church</hi> (ſaid they preſently) then we were happy then we made good the Old Proverb, <hi>Content with Godlineſs is happy gain.</hi> The Nurſeries of learning from whence hath ſprung all the Pil<g ref="char:EOLhyphen"/>lars of the Goſpel, in thoſe dayes, we countenanced, cheriſhed, upheld, and incouraged; then was Youth Trained up in the fear of God, evil doers were diſcouraged, and well doers coun<g ref="char:EOLhyphen"/>tenanced, honeſty and plain dealing was uſed much then among us. What equity was therein Courts of Judicature, the King himſelf not being exempted from the Comencement of a ſuit a<g ref="char:EOLhyphen"/>gainſt him by the meaneſt of his Subjects. When there was one lawfull ſingle perſon and a King ruled theſe Nations, then we were filled with Trade, and the Kingdom richly flouriſhed, and we were the terror of all the Nations round about us, no one daring to diſturb our peace.</p>
+            <div type="part">
+               <head>Now let us enter upon a ſerious r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>flection of the other part of our miſeries in the <hi>Kingdom</hi> of <hi>England.</hi>
+               </head>
+               <p>FIrſt, here ſits your Headleſs King Beheaded, with Blood all over! Are theſe the garments you array your Princes in? Next, behold his Children turned out of Doors, and left to the mercy of ſtrangers; the Children of your Martyred King, the Children of your Innocent ſuffering King, your Lawfull King and his Brethren; not onely Princes, but <hi>Engliſh</hi> Free born Prin<g ref="char:EOLhyphen"/>ces: In another place lyes his Houſes and Palaces turned to a heap of ruines! His Furnitures and Houſhold ſtuff conſumed and deſtroyed, the <hi>Crown</hi> rent by Wild Bores amongſt them<g ref="char:EOLhyphen"/>ſelves, whileſt you ſtand gazing upon them. You may ſee now what all their fair pretences are come too: Let me aſk you one Queſtion; <hi>What was your reaſon in ſhedding ſo much blood? For what end did you do it?</hi> To ſet up Uſurping Beggars to Tyran<g ref="char:EOLhyphen"/>nize over you! They pretended to Peace, the Lord knowes what Liberty for you, and I think they have done it; but how
+<pb n="6" facs="tcp:168859:4"/> have they done it? They have taken and Uſurped liberties to make you their Bondmen. Firſt, they Voted Kingly Office to be heavy and burdenſome to the Commonwealth; and good reaſon too, for had they not done ſo, their cauſe, their glorious cauſe had been quite ſlipt and laid as low as the Duſt of the Earth. It is now eleven years ſince you lived in Peace, in hope of this <hi>Idea, <g ref="char:V">Ʋ</g>topian,</hi> or <hi>Farie</hi> Commonwealth, that they have flam'd and fool d you withal, and will as many years more, if you will ſuffer them; but I hope ſuffering has taught you wiſ<g ref="char:EOLhyphen"/>dom.</p>
+               <trailer>
+                  <hi>Thus much for the Reader, by way of Paraphraſe, upon</hi> Eng<g ref="char:EOLhyphen"/>lands <hi>lamentable ruine and confuſions; we ſhall in the next place preſent you with the moſt univerſally ſatisfa<g ref="char:EOLhyphen"/>ctory, and the most welcome News that ever came to theſe three</hi> Kingdoms <hi>ſince that</hi> 
+                  <date>29 <hi>of</hi> May,</date> 
+                  <hi>which was the</hi> Birth-day <hi>of our Soveraign Lord</hi> King Charles <hi>the ſe<g ref="char:EOLhyphen"/>cond,</hi> whom God preſerve.</trailer>
+            </div>
+            <div type="part">
+               <p>OUr long-ſuffering Prince, and gracious Majeſty, in conſide<g ref="char:EOLhyphen"/>ration of the many miſeries which theſe poor Nations have bin ſo long exerciſed with, cannot think of a more natural and proper remedy, then to reſort to thoſe for advice, who are en<g ref="char:EOLhyphen"/>truſted to repair the breaches that have been made. Upon which, ground, his majeſty ſent a Letter and Declaration to the Houſe of Lords another to the Houſe of Commons; and his gratious letter with a declaration incloſed to his Excellency, and his gra<g ref="char:EOLhyphen"/>cious letter and declaration to the Lord Mayor, Aldermen, and Common council, who out of their reſpects they owe to his ex<g ref="char:EOLhyphen"/>cellent Majeſty while it was reading ſtood all bare.</p>
+               <p>The Common-council upon reading his majeſties gracious letter, ordered that the right honourable the Lord mayor do ac<g ref="char:EOLhyphen"/>quaint the Lord Viſcount <hi>Mordant</hi> and Sir <hi>John Greenvile,</hi> who
+<pb n="7" facs="tcp:168859:4"/> brought the ſaid letter and declaration, That this Court do re<g ref="char:EOLhyphen"/>turn moſt humble and hearty thanks for his gracious owning of this court and city, and declare their readineſs to be under His majeſties government; in teſtimony whereof, they have taken down the Commonwealths Arms, and ordered the Kings Arms to be ſet up. And further that this Court do beg the favour of the Lord <hi>Mordant</hi> to return with an Anſwer in Writing to his Majeſty from this Court: And alſo, that this Court do intend very ſpeedily to ſend members of their own to wait on his Maje<g ref="char:EOLhyphen"/>ſty.</p>
+               <p>Since which time, the Honourable Court have ordered, That Alderman <hi>Adams,</hi> Alderman <hi>Robinſon,</hi> Alderman <hi>Bateman,</hi> and <hi>William Wild</hi> Eſq Recorder of <hi>London,</hi> together with col. <hi>Broom<g ref="char:EOLhyphen"/>field</hi> Major <hi>Chamberlain,</hi> Alderman <hi>Vincent,</hi> Mr. <hi>Bloudworth,</hi> Mr. <hi>Ford,</hi> and Mr. <hi>Bateman</hi> Eſquires, are to attend his Majeſty with a Letter from the City of <hi>London,</hi> with their Preſent of ten thou<g ref="char:EOLhyphen"/>ſand pounds.</p>
+               <p>The Houſe of Peers have made choice of the Earls of <hi>Oxford, Warwick,</hi> and <hi>Middleſex,</hi> with the Lords <hi>Berkley Brooks,</hi> and <hi>Here<g ref="char:EOLhyphen"/>ford,</hi> to carry their Anſwer to his Majeſty. The Houſe of Com<g ref="char:EOLhyphen"/>mons have alſo agreed upon their Anſwer, and have appointed a proportionable number of their members likewiſe to attend his Majeſty.</p>
+               <p>The Lord General and his Officers having agreed upon a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et<g ref="char:EOLhyphen"/>ter in anſwer to the Meſſage which they received from the King, Dr. <hi>Clergies</hi> was ordered to attend his Majeſty with the ſaid Let<g ref="char:EOLhyphen"/>ter, and began his journey for <hi>Breda,</hi> Friday <hi>May</hi> the 4th.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Mr Speakers Speech to Sir <hi>John Greenvile,</hi> upon preſenting of his Majesties Letter and Declaration.</head>
+                     <opener>
+                        <salute>Sir <hi>John Greenvile,</hi>
+                        </salute>
+                     </opener>
+                     <p>
+                        <hi>I</hi> Need not tell you with what grateful and hearty thanks the Com<g ref="char:EOLhyphen"/>mons now Aſſembled in Parliament have received His majeſties
+<pb n="8" facs="tcp:168859:5"/> gracious letter, <hi>res ipſa loquitur:</hi> You your ſelf have been <hi>Auricu<g ref="char:EOLhyphen"/>laris &amp; occularis teſtis de rei veritate.</hi> Our Bells and our Bonfires have already begun the Proclamation of His majeſties goodneſs, and of our Joyes. We have told the People that the <hi>King</hi> is coming home a<g ref="char:EOLhyphen"/>gain; and they have reſounded it back again to us, that they are rea<g ref="char:EOLhyphen"/>dy, and th ir hearts are open to receive him. Both Parliament and People have cried aloud in their prayers to God above, <hi>long live King Charles the Second.</hi> And I am to tell you, that this Houſe doth not think it fit that you ſhould return to Our Soveraign, without ſome testimony of their reſpects to your ſelf. They have ordered that <hi>500 l.</hi> ſhall be delivered unto you, to buy a Jewel, as a badge of honour which is due to a perſon whom the <hi>King</hi> hath honoured to be the meſſenger of ſo gracious a meſſage: And I am commanded in the name of the Houſe to return you their very hearty thanks.</p>
+                  </body>
+               </floatingText>
+               <p>The Parliament have Ordered, That a Committee do conſi<g ref="char:EOLhyphen"/>der of the Court of Wards and Liveries, and all Tenures there<g ref="char:EOLhyphen"/>unto belonging, and to prepare ſomething for the conſideration of the Houſe, for the ſettlement of 100000 <hi>l</hi> by the year, up<g ref="char:EOLhyphen"/>on his Majeſty in lieu thereof.</p>
+               <p>The day of the Kings Coronation is ſuppoſed will be celebra<g ref="char:EOLhyphen"/>ted on the 29th of this inſtant, his Majeſties Birth-day; the Kings Arms are to be ſet up forthwith in all Churches, market-towns, and other uſuaal places, throughout <hi>England, Scotland, Ireland,</hi> and <hi>Wales,</hi> and all the Territories and Dominions thereunto belong<g ref="char:EOLhyphen"/>ing, and the States Arms are to be taken down: This glorious Work is already begun in ſeveral parts of the city of <hi>London;</hi> and the Princely Statue of <hi>Charles</hi> the firſt, of ever bleſſed and never dying memory, and the Statue of our Soveraign Lord K. <hi>Charles</hi> the ſecond, are to be ſet up in the Royal Exchange <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> The Crown and Scepter is alſo preparing in a moſt magni<g ref="char:EOLhyphen"/>ficent manner; and the People begin with voices of <hi>loyalty,</hi> and <hi>allegeance</hi> to ſing.</p>
+            </div>
+            <closer>God ſave <hi>Charles</hi> our lawfull <hi>KING.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
